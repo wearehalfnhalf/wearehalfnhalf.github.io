@@ -15,6 +15,7 @@
   transition: 0.3s ease;
   font-size: 0;
   min-height: 300px;
+  cursor: pointer;
 }
 
 .po_item img {
