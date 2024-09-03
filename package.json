@@ -22,7 +22,7 @@
     },
     "homepage": "https://wearehalfnhalf.github.io/",
     "scripts": {
-        "predeploy": "yarn build && cp build/index.html build/404.html",
+        "predeploy": "yarn build && cp build/index.html build/404.html && cp public/CNAME build/CNAME",
         "deploy": "gh-pages -d build",
         "start": "react-scripts start",
         "build": "react-scripts build",
