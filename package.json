@@ -7,6 +7,7 @@
         "emailjs-com": "^3.2.0",
         "eslint": "^9.9.1",
         "eslint-config-prettier": "^9.1.0",
+        "gh-pages": "^6.1.1",
         "prettier": "^3.3.3",
         "react": "^18.2.0",
         "react-bootstrap": "^2.7.0",
@@ -21,12 +22,12 @@
     },
     "homepage": "https://wearehalfnhalf.github.io/",
     "scripts": {
+        "predeploy": "yarn run build",
+        "deploy": "gh-pages -d build",
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
-        "eject": "react-scripts eject",
-        "predeploy": "yarn build && cp build/index.html build/404.html",
-        "deploy": "gh-pages -d build"
+        "eject": "react-scripts eject"
     },
     "eslintConfig": {
         "extends": [
