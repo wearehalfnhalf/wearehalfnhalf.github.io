@@ -59,6 +59,9 @@ body {
   font-size: 1.4rem;
   line-height: 1.3;
 }
+section.display-7 {
+  display: none !important;
+}
 .display-7 > .mbr-iconfont {
   font-size: 1.75rem;
 }
