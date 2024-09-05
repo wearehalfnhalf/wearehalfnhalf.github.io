@@ -17,7 +17,7 @@ img,
   overflow: hidden;
 }
 body {
-  background-color: #000000;
+  background-color: #fffae6;
 }
 body {
   font-family: Roboto Flex;
@@ -58,9 +58,6 @@ body {
   font-family: 'Roboto Mono', monospace;
   font-size: 1.4rem;
   line-height: 1.3;
-}
-section.display-7 {
-  display: none !important;
 }
 .display-7 > .mbr-iconfont {
   font-size: 1.75rem;
@@ -784,48 +781,6 @@ a {
     padding-right: 16px;
   }
 }
-.cid-unnFGpPUEV {
-  padding-top: 6rem;
-  padding-bottom: 5rem;
-  background-color: #000000;
-}
-.cid-unnFGpPUEV .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-unnFGpPUEV .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (max-width: 991px) {
-  .cid-unnFGpPUEV .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-unnFGpPUEV .row {
-  align-items: center;
-}
-@media (max-width: 991px) {
-  .cid-unnFGpPUEV .image-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-unnFGpPUEV .text-wrapper {
-    padding: 0 2rem;
-  }
-}
-.cid-unnFGpPUEV .mbr-section-title {
-  color: #ffffff;
-}
-.cid-unnFGpPUEV .mbr-text,
-.cid-unnFGpPUEV .mbr-section-btn {
-  color: #a6a99c;
-}
 .cid-unnG3YMBdW {
   z-index: 1000;
   width: 100%;
@@ -1383,6 +1338,48 @@ a {
   .cid-unnG3YMBdW .navbar-collapse {
     padding: 1rem;
   }
+}
+.cid-unnFGpPUEV {
+  padding-top: 6rem;
+  padding-bottom: 5rem;
+  background-color: #000000;
+}
+.cid-unnFGpPUEV .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-unnFGpPUEV .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-unnFGpPUEV .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-unnFGpPUEV .row {
+  align-items: center;
+}
+@media (max-width: 991px) {
+  .cid-unnFGpPUEV .image-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-unnFGpPUEV .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-unnFGpPUEV .mbr-section-title {
+  color: #ffffff;
+}
+.cid-unnFGpPUEV .mbr-text,
+.cid-unnFGpPUEV .mbr-section-btn {
+  color: #a6a99c;
 }
 .cid-unrwXJh3oT {
   z-index: 1000;
@@ -1969,48 +1966,6 @@ a {
 .cid-unsMi2MQ5x .mbr-section-btn {
   color: #ffffff;
 }
-.cid-unrstnvmid {
-  padding-top: 6rem;
-  padding-bottom: 5rem;
-  background-color: #000000;
-}
-.cid-unrstnvmid .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-unrstnvmid .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (max-width: 991px) {
-  .cid-unrstnvmid .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-unrstnvmid .row {
-  align-items: center;
-}
-@media (max-width: 991px) {
-  .cid-unrstnvmid .image-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-unrstnvmid .text-wrapper {
-    padding: 0 2rem;
-  }
-}
-.cid-unrstnvmid .mbr-section-title {
-  color: #ffffff;
-}
-.cid-unrstnvmid .mbr-text,
-.cid-unrstnvmid .mbr-section-btn {
-  color: #a6a99c;
-}
 .cid-unrstocBDu {
   z-index: 1000;
   width: 100%;
@@ -2568,6 +2523,48 @@ a {
   .cid-unrstocBDu .navbar-collapse {
     padding: 1rem;
   }
+}
+.cid-unrstnvmid {
+  padding-top: 6rem;
+  padding-bottom: 5rem;
+  background-color: #000000;
+}
+.cid-unrstnvmid .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-unrstnvmid .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-unrstnvmid .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-unrstnvmid .row {
+  align-items: center;
+}
+@media (max-width: 991px) {
+  .cid-unrstnvmid .image-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-unrstnvmid .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-unrstnvmid .mbr-section-title {
+  color: #ffffff;
+}
+.cid-unrstnvmid .mbr-text,
+.cid-unrstnvmid .mbr-section-btn {
+  color: #a6a99c;
 }
 .cid-unrwXJh3oT {
   z-index: 1000;
