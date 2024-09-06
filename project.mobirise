@@ -270,16 +270,17 @@
     "uniqCompNum": 24,
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "nwmkze01ov",
+    "mbrsiteDomain": "0qwqaqvyt8",
     "usedWebp": false,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "http://halfandhalf.nyc/",
     "cookiesAlert": false,
     "gdpr": false,
     "publishChangesOnly": true,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
