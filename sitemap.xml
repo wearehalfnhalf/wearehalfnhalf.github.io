@@ -6,9 +6,6 @@
 		<loc>http://halfandhalf.nyc/micahaf1.html</loc>
 	</url>
 	<url>
-		<loc>http://halfandhalf.nyc/problemsolved.html</loc>
-	</url>
-	<url>
 		<loc>http://halfandhalf.nyc/workwithus.html</loc>
 	</url>
 	<url>
@@ -19,5 +16,8 @@
 	</url>
 	<url>
 		<loc>http://halfandhalf.nyc/conversingwithkobray.html</loc>
+	</url>
+	<url>
+		<loc>http://halfandhalf.nyc/problemsolved.html</loc>
 	</url>
 </urlset>
